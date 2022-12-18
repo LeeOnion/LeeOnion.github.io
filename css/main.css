@@ -216,7 +216,7 @@ pre code {
   word-wrap: normal; }
 
 table {
-  color: #333333;
+  color: #ffffff;
   font-size: .9em;
   text-align: center;
   line-height: 40px;
@@ -344,7 +344,7 @@ img::-moz-selection {
     color: #fff;
   }
   .tags a {
-  color: #666666; }
+  color: #fcfafa; }
 
   .date a:hover,
   .time a:hover,
@@ -360,7 +360,7 @@ img::-moz-selection {
     font-size: .9em;
     background-color: #FFF;
     text-indent: 10px;
-    color: #4F4F4F; 
+    color: #ffffff; 
   }
 
   .intro {

@@ -64,7 +64,7 @@ html {
 body {
   font-family: "ff-tisa-web-pro-1", "ff-tisa-web-pro-2", "Lucida Grande", "Hiragino Sans GB", "Hiragino Sans GB W3", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
   font-size: 14px;
-  color: rgb(255, 251, 251);
+  color: #333;
   -webkit-font-smoothing: antialiased; }
 
 ::selection {
@@ -103,7 +103,7 @@ h5 {
   margin-bottom: .5em;
   font-family: "ff-tisa-web-pro-1", "ff-tisa-web-pro-2", "Lucida Grande", "Hiragino Sans GB", "Hiragino Sans GB W3", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
   font-weight: lighter;
-  color: #fff8f8;
+  color: #333333;
   -webkit-font-smoothing: antialiased; }
 
 h1 {
@@ -272,7 +272,7 @@ td:last-child {
 
 .pager li>a>span{
   padding-right: 10px;
-  color:rgb(255, 255, 255);
+  color: gray;
   padding: 10px 10px;  
 }
 
